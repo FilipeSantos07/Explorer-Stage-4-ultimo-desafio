@@ -40,7 +40,7 @@ let students = [
 ]
 
 function calculateMedia(n1,n2) {
-    return (n1 + n2) / 2
+    return ((n1 + n2) / 2).toFixed(1)
 }
 
 for(let position of students) {
