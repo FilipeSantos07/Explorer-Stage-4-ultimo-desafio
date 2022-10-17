@@ -45,7 +45,7 @@ function calculateMedia(n1,n2) {
 
 for(let position of students) {
 
-    if(calculateMedia(position.n1,position.n2) > 7) {
+    if(calculateMedia(position.n1,position.n2) >= 7) {
 
         alert(`A média do(a) aluno(a) ${position.name} é: ${calculateMedia(position.n1,position.n2)} \n
         Parabéns, ${position.name}! Você foi aprovado(a) no concurso!`)
