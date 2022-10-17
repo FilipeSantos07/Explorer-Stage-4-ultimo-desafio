@@ -3,6 +3,7 @@
 ![preview](./.github/preview.png)
 
 > Trilha Explorer
+ 
 Último desafio do stage 4 trilha Explorer da Rocketseat finalizado com sucesso! Agora é continuar praticando os exercícios e partir pro stage 5 (Avançando no JavaScript). \o/
 
 Principais pontos abordados nesse desafio:
